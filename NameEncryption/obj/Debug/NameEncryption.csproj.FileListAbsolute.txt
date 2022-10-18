@@ -1,0 +1,8 @@
+C:\Users\muham\source\repos\NameEncryption\NameEncryption\bin\Debug\NameEncryption.exe.config
+C:\Users\muham\source\repos\NameEncryption\NameEncryption\bin\Debug\NameEncryption.exe
+C:\Users\muham\source\repos\NameEncryption\NameEncryption\bin\Debug\NameEncryption.pdb
+C:\Users\muham\source\repos\NameEncryption\NameEncryption\obj\Debug\NameEncryption.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\NameEncryption\NameEncryption\obj\Debug\NameEncryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\NameEncryption\NameEncryption\obj\Debug\NameEncryption.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\NameEncryption\NameEncryption\obj\Debug\NameEncryption.exe
+C:\Users\muham\source\repos\NameEncryption\NameEncryption\obj\Debug\NameEncryption.pdb
